@@ -56,6 +56,5 @@ jobs:
           # Command line arguments to composer
           #args: # optional, default is --optimize-autoloader --no-progress
           # OAuth token for accessing github private resources
-          #github_oauth: # optional, default is 
-          php_version: 7.4.9
+          #github_oauth: # optional, default is
           
