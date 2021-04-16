@@ -50,4 +50,5 @@ jobs:
           #args: # optional, default is --optimize-autoloader --no-progress
           # OAuth token for accessing github private resources
           #github_oauth: # optional, default is 
+          php_version: 8.0.0
           
